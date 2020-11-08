@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+table td {
+    border: 1px #000000 solid;
+}
+
+table {
+    height: 800px;
+    width: 1000px;
+}
